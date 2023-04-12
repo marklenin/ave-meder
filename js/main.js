@@ -11,6 +11,9 @@ let filterValue = "all";
 let imgInfo = document.querySelector(".body img");
 let modal = document.querySelector(".modal");
 
+
+// hello world
+
 async function fromApiToJson() {
   let res = await fetch(API);
   let data = await res.json();
