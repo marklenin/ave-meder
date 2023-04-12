@@ -1,0 +1,70 @@
+{
+  "person": [
+    {
+      "Title": "The Devil All the Time",
+      "Year": "2020",
+      "imdbID": "tt7395114",
+      "Type": "action",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE1NmVmN2EtMjZmZC00YzAyLWE4MWEtYjY5YmExMjUxODU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "id": 3
+    },
+    {
+      "Title": "All About Eve",
+      "Year": "1950",
+      "imdbID": "tt0042192",
+      "Type": "cartoon",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg",
+      "id": 4
+    },
+    {
+      "Title": "The Kids Are All Right",
+      "Year": "2010",
+      "imdbID": "tt0842926",
+      "Type": "drama",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTMwNDg5MF5BMl5BanBnXkFtZTcwNDY2ODE0Mw@@._V1_SX300.jpg",
+      "id": 5
+    },
+    {
+      "Title": "The Sum of All Fears",
+      "Year": "2002",
+      "imdbID": "tt0164184",
+      "Type": "action",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmFiZDkyYWQtMGNkZi00YmZkLThjNzAtY2U1YTVmYmNlNThmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "id": 6
+    },
+    {
+      "Title": "All the President's Men",
+      "Year": "1976",
+      "imdbID": "tt0074119",
+      "Type": "drama",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWI2YWQxM2MtY2U4Yi00YjgzLTgwNzktN2ExNTgzNTIzMmUzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+      "id": 7
+    },
+    {
+      "Title": "To All the Boys I've Loved Before",
+      "Year": "2018",
+      "imdbID": "tt3846674",
+      "Type": "horror",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ3NjM5MTAzN15BMl5BanBnXkFtZTgwODQzMDAwNjM@._V1_SX300.jpg",
+      "id": 8
+    },
+    {
+      "Title": "Run All Night",
+      "Year": "2015",
+      "imdbID": "tt2199571",
+      "Type": "horror",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2ODI3ODEyOV5BMl5BanBnXkFtZTgwMTM3NTQzNDE@._V1_SX300.jpg",
+      "id": 9
+    },
+    {
+      "Title": "Jingle All the Way",
+      "Year": "1996",
+      "imdbID": "tt0116705",
+      "Type": "horror",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmJlYzViNzctMjQ1Ni00ZWQ4LThkN2YtMzI2ZGU5Nzk0NTAyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "id": 10
+    }
+  ],
+
+  "admin": [{ "password": "slava Mederu" }]
+}
